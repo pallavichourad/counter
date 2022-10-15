@@ -1,0 +1,50 @@
+/* Add all your styles here */
+img{
+  height:500px;
+  width:350px;
+}
+h1{
+  position: absolute;
+z-index:2;
+top:20px;
+color:white;
+margin-left:65px;
+}
+#count-el{
+  position: absolute;
+z-index:2;
+top:70px; 
+margin-left:140px;
+color:white;
+size:50px;
+}
+h2{
+  position: absolute;
+  z-index:2;
+top:340px; 
+margin-left:40px;
+color:white;
+}
+#increment-btn{
+ background-color:darkred;
+ border:darkred;
+ height:40px; 
+ width:200px;
+position: absolute;
+z-index:2;
+top:180px;
+margin-left: 70px;
+}
+
+#save-btn{
+  background-color:green;
+ border:red;
+ height:40px; 
+ width:200px;
+ position: absolute;
+ z-index:2;
+ top:230px;
+ margin-left: 70px;
+}
+
+
